@@ -1,0 +1,7 @@
+*.class
+*.txt
+*.log
+*.db
+*.csv
+classes/
+*secret*
